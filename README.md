@@ -1,3 +1,10 @@
+# Preview
+
+![image](https://github.com/itsShashankSrivastava/Multi-Step-Login-Form/assets/76199642/d393f978-2615-4f0c-b298-1be1c9b6cdfb)
+
+![image](https://github.com/itsShashankSrivastava/Multi-Step-Login-Form/assets/76199642/2d2e67f3-17e9-455a-9dab-d6b3bd3fbc2a)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
