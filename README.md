@@ -2,8 +2,7 @@
 
 ![image](https://github.com/itsShashankSrivastava/Multi-Step-Login-Form/assets/76199642/d393f978-2615-4f0c-b298-1be1c9b6cdfb)
 
-![image](https://github.com/itsShashankSrivastava/Multi-Step-Login-Form/assets/76199642/2d2e67f3-17e9-455a-9dab-d6b3bd3fbc2a)
-
+![image](https://github.com/itsShashankSrivastava/Multi-Step-Login-Form/assets/76199642/a95017a3-d194-40b6-8749-b3e7b8a1f07f)
 
 # Getting Started with Create React App
 
